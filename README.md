@@ -8,8 +8,8 @@ Medium-to-high contrast theme, loosely inspired by the Metroid video game series
 
 ![symbiosis dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/symbiosis/img/symbiosis_dark_sample.png)
 
-*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack)*.  
-*Demo code by http://codemirror.net/mode/javascript/index.html*  
+*The font is [Hack](https://github.com/chrissimpkins/Hack)*.  
+*Demo JS by http://codemirror.net/mode/javascript/index.html*  
 *The UI theme is https://atom.io/themes/atom-material-ui*.
 
 ## Download
